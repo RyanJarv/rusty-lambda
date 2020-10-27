@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dabe9f7-4e7f-4604-8846-7b2caaa340a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qj99e8dc" />
+  </component>
+  <component name="ProjectId" id="1jS7EkKqsBJqopiHIqJAUg0ATKp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/Users/jarv/Code/test/asdf/my_lambda_function/src/main.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="AWS Lambda.[Local] HelloRustFunction">
+    <configuration name="[Local] HelloRustFunction" type="aws.lambda" factoryName="Local">
+      <option name="credentialProviderId" value="profile:rjsh-dev-admin" />
+      <option name="regionId" value="us-east-2" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" />
+      <option name="logicalFunctionName" value="HelloRustFunction" />
+      <option name="memorySize" value="512" />
+      <option name="runtime" />
+      <option name="templateFile" value="$PROJECT_DIR$/template.yaml" />
+      <option name="timeout" value="3" />
+      <option name="useTemplate" value="true" />
+      <option name="input" value="$PROJECT_DIR$/event.json" />
+      <option name="inputIsFile" value="true" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <configuration name="[Remote] HelloRustFunction" type="aws.lambda" factoryName="Remote">
+      <option name="credentialProviderId" value="profile:rjsh-dev-admin" />
+      <option name="regionId" value="us-east-2" />
+      <option name="functionName" value="pythontest" />
+      <option name="input" value="$PROJECT_DIR$/event.json" />
+      <option name="inputIsFile" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="aws.lambda" factoryName="Local">
+      <option name="credentialProviderId" value="profile:rjsh-dev-admin" />
+      <option name="regionId" value="us-west-2" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" />
+      <option name="logicalFunctionName" value="HelloRustFunction" />
+      <option name="memorySize" value="512" />
+      <option name="runtime" />
+      <option name="templateFile" value="$PROJECT_DIR$/template.yaml" />
+      <option name="timeout" value="3" />
+      <option name="useTemplate" value="true" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="true" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="aws.lambda" factoryName="Remote">
+      <option name="credentialProviderId" value="profile:me@ryanjarv.sh" />
+      <option name="regionId" value="us-east-2" />
+      <option name="functionName" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="AWS Lambda.[Local] HelloRustFunction" />
+      <item itemvalue="AWS Lambda.[Remote] HelloRustFunction" />
+    </list>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dabe9f7-4e7f-4604-8846-7b2caaa340a9" name="Default Changelist" comment="" />
+      <created>1603785531633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603785531633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="86" width="1071" height="964" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603790393886">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="86" width="1071" height="964" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1603790393886" />
+    <state width="1638" height="283" key="GridCell.Tab.0.bottom" timestamp="1603789583422">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="283" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1603789583422" />
+    <state width="1638" height="283" key="GridCell.Tab.0.center" timestamp="1603789583421">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="283" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1603789583421" />
+    <state width="1638" height="283" key="GridCell.Tab.0.left" timestamp="1603789583421">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="283" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1603789583421" />
+    <state width="1638" height="283" key="GridCell.Tab.0.right" timestamp="1603789583422">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="283" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1603789583422" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1603789874439">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1603789874439" />
+    <state x="557" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603786083912">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="557" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1603786083912" />
+  </component>
+</project>
